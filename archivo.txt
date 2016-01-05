@@ -1,0 +1,2 @@
+Esto es un archivo para hacer la prueba de como podemos revertir
+una preparacion si queremos enviar por separado dos archivos.
