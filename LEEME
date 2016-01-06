@@ -2,3 +2,4 @@ Leeme no tenia contenido ahorita le esto escribiendo esto
 
 Haremos otra prueba de como funciona cuando ya este confirmado pero queremos revertir
 Agregamos otra linea
+Editando leeme desde rama2, esto no puedo estar presente en rama1, se hace otro procedimiento para combinarlo con el que si podemos combinarlo es con master pero tendriamos que regresar a master y ejecutar git merge rama2
